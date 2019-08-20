@@ -1,0 +1,160 @@
+---
+valuation: "data: {\"current\":70,\"last\":18,\"id\":\"valuation\",\"updatedAt\":1563808712}\n\n"
+karma: "data: {\"current\":107408,\"last\":161575,\"id\":\"karma\",\"updatedAt\":1563808712}\n\n"
+synergy: "data: {\"value\":86,\"id\":\"synergy\",\"updatedAt\":1563808712}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Streamlininess\",\"value\":1},{\"label\":\"Exit
+  strategy\",\"value\":2},{\"label\":\"Enterprise\",\"value\":1},{\"label\":\"Leverage\",\"value\":1},{\"label\":\"Synergy\",\"value\":1},{\"label\":\"Paradigm
+  shift\",\"value\":1}],\"id\":\"buzzwords\",\"updatedAt\":1563808712}\n\n"
+convergence: "data: {\"points\":[{\"x\":8,\"y\":23},{\"x\":9,\"y\":16},{\"x\":10,\"y\":0},{\"x\":11,\"y\":38},{\"x\":12,\"y\":15},{\"x\":13,\"y\":43},{\"x\":14,\"y\":10},{\"x\":15,\"y\":35},{\"x\":16,\"y\":22},{\"x\":17,\"y\":28}],\"id\":\"convergence\",\"updatedAt\":1563808712}\n\n"
+quote: "data: {\"text\":\"We choose our destiny in the way we treat others.\",\"moreinfo\":\"Wit\",\"id\":\"quote\",\"updatedAt\":1563808699}\n\n"
+review-1-com.bgmobilenga: "data: {\"author\":\"Zarko Drumev\",\"date\":\"July 22,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"Terrible app,crashing so so many times!\",\"rating\":\"1\",\"id\":\"review-1-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-2-com.bgmobilenga: "data: {\"author\":\"Robert Diamond Merritt\",\"date\":\"July
+  22, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"Crashed after i used chat now cant
+  top up using app ive tried the old app and that wont top up now either. it's not
+  worked proper since I've had new smart metres always losing signal. I'll be changing
+  supplier soon as I find a good one\",\"rating\":\"1\",\"id\":\"review-2-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-3-com.bgmobilenga: "data: {\"author\":\"astartespete\",\"date\":\"July 22,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"Good app overall, performance on a
+  couple if screens needs optimising though.\",\"rating\":\"4\",\"id\":\"review-3-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-4-com.bgmobilenga: "data: {\"author\":\"M Wa\",\"date\":\"July 22, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"i
+  just want to pay my bill. i hate the fact it is constantly asking to update. i am
+  not interested.\",\"rating\":\"1\",\"id\":\"review-4-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-5-com.bgmobilenga: "data: {\"author\":\"Charlie Bingham\",\"date\":\"July 22,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"terrible!! the apps not so bad. British
+  gas themselves are a complete joke!!\",\"rating\":\"1\",\"id\":\"review-5-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-6-com.bgmobilenga: "data: {\"author\":\"Quentin Wallace\",\"date\":\"July 22,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"When opened I just get a white screen
+  of death (another review seems to have the same problem).\",\"rating\":\"1\",\"id\":\"review-6-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-7-com.bgmobilenga: "data: {\"author\":\"Nathan Lee\",\"date\":\"July 21, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"Someone
+  didn't consider the end users when designing this application, its absolutely terrible.
+  Where possible it needs to mimic the desktop functionality and it simply doesn't.
+  I have also use a computer if i want to do anything account related.\",\"rating\":\"2\",\"id\":\"review-7-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-8-com.bgmobilenga: "data: {\"author\":\"Michael K\",\"date\":\"July 21, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"awful
+  changed password 10 times and may the lord be with u if u ever ring customer service
+  they just hang up on u because got no idea how too help you smart meters dont mean
+  smart staff took over 3hrs before problem was sorted\",\"rating\":\"1\",\"id\":\"review-8-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-9-com.bgmobilenga: "data: {\"author\":\"Christopher Bennett\",\"date\":\"July
+  21, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"After every few updates the app
+  will just log me out completely. perfect app would (not) recommend.\",\"rating\":\"1\",\"id\":\"review-9-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-10-com.bgmobilenga: "data: {\"author\":\"emma vince\",\"date\":\"July 21, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"so
+  easy to use even for an app novice like me x\",\"rating\":\"5\",\"id\":\"review-10-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-11-com.bgmobilenga: "data: {\"author\":\"Phil Myers\",\"date\":\"July 21, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"does
+  not save your log in details. cannot see your bills in PDF form. The old app worked.\",\"rating\":\"3\",\"id\":\"review-11-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-12-com.bgmobilenga: "data: {\"author\":\"Bob Pearson\",\"date\":\"July 21,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"Don't use the rewards scheme....\",\"rating\":\"1\",\"id\":\"review-12-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-13-com.bgmobilenga: "data: {\"author\":\"Nigel Malaney\",\"date\":\"July 21,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"good app very useful\",\"rating\":\"5\",\"id\":\"review-13-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-14-com.bgmobilenga: "data: {\"author\":\"kay theobald\",\"date\":\"July 21,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"just as rubbish as the other one. telling
+  me I cannot top up anymore today but I haven't topped up once . Now its took two
+  payments even though I only did one so it's took my petrol money too. went through
+  to get a refund and was told it has to be by cheque. DISGUSTING SERVICE.\",\"rating\":\"1\",\"id\":\"review-14-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-15-com.bgmobilenga: "data: {\"author\":\"Sean Taylor\",\"date\":\"July 21,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"Awful. Every time I submit a reading
+  I have to authorise it to turn on the torch, it tells me my metre reading doesnt
+  look right (no further explanation given) and it doesnt tell me what my bill will
+  be (basic features of the old app). And the lag. Bloody awful. I have a reasonably
+  high end phone and the optimisation of this app is dreadful. Hire a new developer.\",\"rating\":\"1\",\"id\":\"review-15-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-16-com.bgmobilenga: "data: {\"author\":\"Rob Vevers\",\"date\":\"July 21, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"much
+  much better than the old app. still has some bugs though but it does work. which
+  is more than you could say about the old app. it looks much more modern and is easy
+  to read information and is easier to do what you need to.\",\"rating\":\"4\",\"id\":\"review-16-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-17-com.bgmobilenga: "data: {\"author\":\"Kane Nimmo\",\"date\":\"July 21, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"fingerprint
+  enabled but I still need to sign in every time.. seems pointless\",\"rating\":\"3\",\"id\":\"review-17-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-18-com.bgmobilenga: "data: {\"author\":\"Matt Savage\",\"date\":\"July 21,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"quick and efficient. just what you
+  need it to be.\",\"rating\":\"5\",\"id\":\"review-18-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-19-com.bgmobilenga: "data: {\"author\":\"Courtney Perrett\",\"date\":\"July
+  21, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"Doesn't update when topping up
+  my meters\",\"rating\":\"1\",\"id\":\"review-19-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-20-com.bgmobilenga: "data: {\"author\":\"Mr Me Vamp\",\"date\":\"July 21, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"cant
+  us now I can not top my gas up or my electric\",\"rating\":\"1\",\"id\":\"review-20-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-21-com.bgmobilenga: "data: {\"author\":\"Tracy Roberts\",\"date\":\"July 20,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"Terrible app! All usage history gone.
+  Graphs don't have a Y axis? Showing estimate when it's actual. Bring the old app
+  back!\",\"rating\":\"1\",\"id\":\"review-21-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-22-com.bgmobilenga: "data: {\"author\":\"Matt Seely\",\"date\":\"July 20, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"Why
+  so many problems. With topping up. The app now tells me I've exceed my daily limit
+  of top ups, what none. BG are a joke, how simple can it be to have an app that works
+  and surprise surprise the call centre is a Mon-Sat job. Fantastic on a Sunday morning.
+  Well done\",\"rating\":\"1\",\"id\":\"review-22-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-23-com.bgmobilenga: "data: {\"author\":\"bob shum\",\"date\":\"July 20, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"Literally
+  took ages to load 11 secs to the enter and accept password screen then a further
+  42 secs to try and get to the Home page only to get the message \\\"oop's something
+  went wrong\\\" .... also extremely slow to navigate between screens. I have high
+  speed fibre broadband - checked my speed which is 60.3Mbps/13Mbps ....so not my
+  end??? \\uf422\\uf422\\uf422 frustratingly slow\",\"rating\":\"2\",\"id\":\"review-23-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-24-com.bgmobilenga: "data: {\"author\":\"William Caunt\",\"date\":\"July 20,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"was supposed to be an upgrade. left
+  old software on phone in a no longer usable state. keeps wanting an upgrade which
+  I already did but it's a different software wanting new settings. new app is Not
+  as good as previous app can't compare usage with last year. I would rate this app
+  as zero star\",\"rating\":\"1\",\"id\":\"review-24-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-25-com.bgmobilenga: "data: {\"author\":\"Ray Busher\",\"date\":\"July 20, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"app
+  no longer works on my tablet was forced to install on phone british gas is really
+  trying my patience in if i stay as a customer or not . tablets are no longer supported
+  so please reinstall old app so i and other people can get back to using it\",\"rating\":\"1\",\"id\":\"review-25-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-26-com.bgmobilenga: "data: {\"author\":\"Nigel Simkin\",\"date\":\"July 20,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"after an initial app failure I uninstalled
+  then reinstalled it, its working fine now, seems to be better than the previous
+  app ive updated from.\",\"rating\":\"5\",\"id\":\"review-26-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-27-com.bgmobilenga: "data: {\"author\":\"Mark Taylor\",\"date\":\"July 20,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"Awful, seems designed around income
+  generation. I launched the application however when I tried to enter my login details,
+  it asked me for my email address and postcode and decided to tell me that the postcode
+  was incorrect! So I tried the password reset link, receieved email telling me someone
+  waa trying to access my account, with no link to reset my password. I can find no
+  way of entering my meter readings, however i can order extra cover on ny boiler
+  or have a one off call! Disappointed!\",\"rating\":\"1\",\"id\":\"review-27-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-28-com.bgmobilenga: "data: {\"author\":\"Kerry Charters\",\"date\":\"July 20,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"I've had a smart meter for years. And
+  the 1st meter had a great app which allowed me to top up, view live balance, could
+  turn on emergency credit from anywhere. In the last year British gas advised me
+  they would provide a new meter. Since then no app for pay. And now spending \\u00a33
+  day when it used to be half this. And yes British gas I have your other app which
+  does work but doesn't show current balance. Rubbish. 3 months on and STILL NO CHANGE
+  TO IT.\",\"rating\":\"1\",\"id\":\"review-28-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-29-com.bgmobilenga: "data: {\"author\":\"Tony Hindle\",\"date\":\"July 20,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"App slow and difficult to find current
+  energy detail\",\"rating\":\"4\",\"id\":\"review-29-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-30-com.bgmobilenga: "data: {\"author\":\"Wendy Thomas\",\"date\":\"July 20,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"Useless, like every other British gas
+  app.\",\"rating\":\"1\",\"id\":\"review-30-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-31-com.bgmobilenga: "data: {\"author\":\"John Ferrett\",\"date\":\"July 19,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"another app that doesn't save the password.
+  if eBay and Amazon do why cant this? still doesn't have a option to save the password
+  and also why with apps does it assume i always need to use portrait mode??? i use
+  a tablet and prefer the option! it cant be that difficult to update the options
+  above. still cant save my login details. what is the problem is it so someone might
+  hack in a pay my bill for me, yes please!!!\",\"rating\":\"1\",\"id\":\"review-31-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-32-com.bgmobilenga: "data: {\"author\":\"Shazema Bedarkhan\",\"date\":\"July
+  19, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"amazing application:)\",\"rating\":\"5\",\"id\":\"review-32-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-33-com.bgmobilenga: "data: {\"author\":\"Malcolm Mheuka\",\"date\":\"July 19,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"Neat\",\"rating\":\"5\",\"id\":\"review-33-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-34-com.bgmobilenga: "data: {\"author\":\"Karel Brendl\",\"date\":\"July 19,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"Finally this app is available for me!
+  Still leaving 3 stars because the usage records and credit records are nearly one
+  month old. I'll keep testing and update this review accordingly.\",\"rating\":\"3\",\"id\":\"review-34-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-35-com.bgmobilenga: "data: {\"author\":\"HV Legion\",\"date\":\"July 19, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"Just
+  as bad as the old app. Unable to top up online and account details are days out
+  of date. UPDATE: Still unable to top up online with either app but can't fault the
+  BG customer service team at all. Just the developers that need a kick up the rear
+  end. App still not fit for purpose.\",\"rating\":\"1\",\"id\":\"review-35-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-36-com.bgmobilenga: "data: {\"author\":\"Yasmin Islam\",\"date\":\"July 19,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"Needs updating every single time I
+  need to take a meter reading, taking up an increasing amount of space on ny ohone,
+  and isnt even that good.\",\"rating\":\"2\",\"id\":\"review-36-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-37-com.bgmobilenga: "data: {\"author\":\"Ginda Sowarn\",\"date\":\"July 19,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"Very easy and quick dates available\",\"rating\":\"5\",\"id\":\"review-37-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-38-com.bgmobilenga: "data: {\"author\":\"Alex Adams\",\"date\":\"July 19, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"White
+  screen upon opening the app on both android and ios. cant use the old app.\",\"rating\":\"1\",\"id\":\"review-38-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-39-com.bgmobilenga: "data: {\"author\":\"aflow Furlow\",\"date\":\"July 19,
+  2019\",\"reviewTitle\":\"\",\"reviewText\":\"more direct approach and easy to use
+  app\",\"rating\":\"5\",\"id\":\"review-39-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+review-40-com.bgmobilenga: "data: {\"author\":\"Matthew Eaton-Dykes\",\"date\":\"July
+  19, 2019\",\"reviewTitle\":\"\",\"reviewText\":\"easy to use but please just simplify
+  the login sequence. it's not difficult but too many pages. What's wrong with 2 boxes,
+  one for email, one for password on the same page? instead of all the 'quirky' statements
+  like \\\"looks like an email to me.\\\"\",\"rating\":\"4\",\"id\":\"review-40-com.bgmobilenga\",\"updatedAt\":1563808699}\n\n"
+forecast: "data: {\"farenheit\":\"26&deg;C\",\"summary\":\"Partly cloudy\",\"code\":\"116\",\"id\":\"forecast\",\"updatedAt\":1563808699}\n\n"

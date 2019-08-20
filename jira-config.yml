@@ -1,0 +1,8 @@
+jira:
+  username: ashish.bharti@centrica.com
+  password: Januar!234
+  url: https://centrica.atlassian.net
+  scheme: https
+  customfield:
+    storypoints: customfield_StoryPoints
+  view: view_id
