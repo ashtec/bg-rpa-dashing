@@ -43,7 +43,7 @@ GEM
     json (2.2.0)
     mini_portile2 (2.4.0)
     multi_json (1.13.1)
-    nokogiri (1.10.3)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     rack (1.5.5)
     rack-protection (1.5.5)
